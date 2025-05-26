@@ -44,6 +44,12 @@ I’m passionate about building impactful tech — from maternal healthcare AI t
 
 ---
 
+
+<img src="https://raw.githubusercontent.com/sineetg/sineetg/output/snake.svg" alt="Snake animation" />
+
+###
+
+
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sineetg&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=sineetg&theme=radical&hide_border=true)
