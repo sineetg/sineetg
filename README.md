@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Mahlet Gebremedhin
 
-🎓 Computer Science student | 💡 AI & Backend Dev Enthusiast | 🌍 Emerging Tech Leader from Ethiopia  
+🎓 Computer Science student | ⚙️ Django Developer | 💡 AI & Backend Dev Enthusiast | 🌍 Emerging Tech Leader from Ethiopia  
 I’m passionate about building impactful tech — from maternal healthcare AI to space-tech interfaces.
 
 ---
