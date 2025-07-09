@@ -44,9 +44,6 @@ I’m passionate about building impactful tech — from maternal healthcare AI t
 
 ---
 
-## 🐍 GitHub Contribution Snake
-<img src="https://raw.githubusercontent.com/sineetg/sineetg/output/snake.svg" alt="Snake animation" />
-
 ###
 
 
