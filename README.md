@@ -58,7 +58,6 @@ I’m passionate about building impactful tech — from maternal healthcare AI t
 - 📧 Email: wrsineety@gmail.com  
 - 💼 LinkedIn: [https://linkedin.com/in/gmsineet]  
 - 🌐 Portfolio: [https://professional-portfolio-bice-theta.vercel.app/]  
-- 📝 Worklog: [Google Drive](https://drive.google.com) 
 ---
 
 *“Build with purpose. Learn with curiosity. Lead with heart.”* 🚀
